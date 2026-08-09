@@ -1,6 +1,6 @@
 # ntfy on Railway
 
-<!-- The verified Railway deploy button is added after publication. -->
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/ntfy-private-railway)
 
 A secure, persistent [ntfy](https://ntfy.sh/) push-notification server for Railway. The wrapper pins ntfy `v2.27.0`, creates one administrator idempotently, denies anonymous topic access, stores auth and cached messages on a volume, and stores attachments in a Railway Bucket.
 
