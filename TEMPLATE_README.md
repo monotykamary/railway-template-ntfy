@@ -2,7 +2,7 @@
 
 ## About Hosting ntfy
 
-ntfy is an HTTP-based pub/sub notification service with web, desktop, Android, and iOS clients. This template deploys a private-by-default ntfy `v2.27.0` server with persistent users, cached messages, and S3-compatible attachments.
+ntfy is an HTTP-based pub/sub notification service with web, desktop, Android, and iOS clients. This template deploys a private-by-default ntfy `v2.28.0` server with persistent users, cached messages, and S3-compatible attachments.
 
 ## Common Use Cases
 

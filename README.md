@@ -2,7 +2,7 @@
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/ntfy-private-railway)
 
-A secure, persistent [ntfy](https://ntfy.sh/) push-notification server for Railway. The wrapper pins ntfy `v2.27.0`, creates one administrator idempotently, denies anonymous topic access, stores auth and cached messages on a volume, and stores attachments in a Railway Bucket.
+A secure, persistent [ntfy](https://ntfy.sh/) push-notification server for Railway. The wrapper pins ntfy `v2.28.0`, creates one administrator idempotently, denies anonymous topic access, stores auth and cached messages on a volume, and stores attachments in a Railway Bucket.
 
 ## Architecture
 
@@ -36,5 +36,5 @@ Update the ntfy tag and immutable digest in `Dockerfile`, rebuild, then test hea
 
 - Source: https://github.com/binwiederhier/ntfy
 - Documentation: https://docs.ntfy.sh/
-- Release: https://github.com/binwiederhier/ntfy/releases/tag/v2.27.0
+- Release: https://github.com/binwiederhier/ntfy/releases/tag/v2.28.0
 - License: [Apache License 2.0](LICENSE)
