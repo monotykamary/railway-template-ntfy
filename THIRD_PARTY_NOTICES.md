@@ -1,6 +1,6 @@
 # Third-party notices
 
-This repository is a Railway deployment adapter for ntfy `v2.32.0`.
+This repository is a Railway deployment adapter for ntfy `v2.33.1`.
 
 - ntfy source: https://github.com/binwiederhier/ntfy
 - ntfy copyright: Philipp C. Heckel and contributors
